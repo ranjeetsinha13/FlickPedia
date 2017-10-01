@@ -1,7 +1,8 @@
-package com.rs.flickpedia
+package com.rs.flickpedia.ui.activities
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.rs.flickpedia.R
 
 class MainActivity : AppCompatActivity() {
 
